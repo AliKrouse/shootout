@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 91d6f3117a7cffe42bfa244f055515fa
+timeCreated: 1485031887
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: Chaps_29721
+    100006: Chaps_29721_LOD0
+    100008: Chaps_29721_LOD1
+    100010: Chaps_29721_LOD2
+    100012: Chaps_29721_LOD3
+    100014: //RootNode
+    100016: hip
+    100018: lBigToe
+    100020: lBigToe_2
+    100022: lFoot
+    100024: lHeel
+    100026: lMetatarsals
+    100028: lShin
+    100030: lSmallToe1
+    100032: lSmallToe1_2
+    100034: lSmallToe2
+    100036: lSmallToe2_2
+    100038: lSmallToe3
+    100040: lSmallToe3_2
+    100042: lSmallToe4
+    100044: lSmallToe4_2
+    100046: lThighBend
+    100048: lThighTwist
+    100050: lToe
+    100052: pelvis
+    100054: rBigToe
+    100056: rBigToe_2
+    100058: rFoot
+    100060: rHeel
+    100062: rMetatarsals
+    100064: rShin
+    100066: rSmallToe1
+    100068: rSmallToe1_2
+    100070: rSmallToe2
+    100072: rSmallToe2_2
+    100074: rSmallToe3
+    100076: rSmallToe3_2
+    100078: rSmallToe4
+    100080: rSmallToe4_2
+    100082: rThighBend
+    100084: rThighTwist
+    100086: rToe
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: Chaps_29721
+    400006: Chaps_29721_LOD0
+    400008: Chaps_29721_LOD1
+    400010: Chaps_29721_LOD2
+    400012: Chaps_29721_LOD3
+    400014: //RootNode
+    400016: hip
+    400018: lBigToe
+    400020: lBigToe_2
+    400022: lFoot
+    400024: lHeel
+    400026: lMetatarsals
+    400028: lShin
+    400030: lSmallToe1
+    400032: lSmallToe1_2
+    400034: lSmallToe2
+    400036: lSmallToe2_2
+    400038: lSmallToe3
+    400040: lSmallToe3_2
+    400042: lSmallToe4
+    400044: lSmallToe4_2
+    400046: lThighBend
+    400048: lThighTwist
+    400050: lToe
+    400052: pelvis
+    400054: rBigToe
+    400056: rBigToe_2
+    400058: rFoot
+    400060: rHeel
+    400062: rMetatarsals
+    400064: rShin
+    400066: rSmallToe1
+    400068: rSmallToe1_2
+    400070: rSmallToe2
+    400072: rSmallToe2_2
+    400074: rSmallToe3
+    400076: rSmallToe3_2
+    400078: rSmallToe4
+    400080: rSmallToe4_2
+    400082: rThighBend
+    400084: rThighTwist
+    400086: rToe
+    4300000: Chaps_29721_LOD0
+    4300002: Chaps_29721_LOD1
+    4300004: Chaps_29721_LOD2
+    4300006: Chaps_29721_LOD3
+    9500000: //RootNode
+    13700000: Chaps_29721_LOD0
+    13700002: Chaps_29721_LOD1
+    13700004: Chaps_29721_LOD2
+    13700006: Chaps_29721_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

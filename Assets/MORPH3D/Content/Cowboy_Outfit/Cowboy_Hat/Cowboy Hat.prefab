@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1202766930874732}
+  m_IsPrefabParent: 1
+--- !u!1 &1202766930874732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4307018762302274}
+  - component: {fileID: 114946708326594110}
+  - component: {fileID: 114178091238705726}
+  m_Layer: 0
+  m_Name: Cowboy Hat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1314310837717076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4713452587769720}
+  - component: {fileID: 33315513953142218}
+  - component: {fileID: 23523264559835944}
+  - component: {fileID: 114095733833101906}
+  m_Layer: 0
+  m_Name: CowboyHat_LOD1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1518115641960118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4645121009843610}
+  - component: {fileID: 33806622152428424}
+  - component: {fileID: 23762292385431698}
+  - component: {fileID: 114412207672790066}
+  m_Layer: 0
+  m_Name: CowboyHat_LOD0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1674687453534432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4694360557916086}
+  - component: {fileID: 33206861526363462}
+  - component: {fileID: 23271677742504738}
+  - component: {fileID: 114094220769283020}
+  m_Layer: 0
+  m_Name: CowboyHat_LOD2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1931976240785624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4449076910167312}
+  - component: {fileID: 33669674018925522}
+  - component: {fileID: 23234990313200922}
+  - component: {fileID: 114833213912483302}
+  m_Layer: 0
+  m_Name: CowboyHat_LOD3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4307018762302274
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1202766930874732}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4645121009843610}
+  - {fileID: 4713452587769720}
+  - {fileID: 4694360557916086}
+  - {fileID: 4449076910167312}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4449076910167312
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1931976240785624}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.082890965, z: 0.018750848}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4307018762302274}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4645121009843610
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1518115641960118}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.082890965, z: 0.018750848}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4307018762302274}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4694360557916086
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674687453534432}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.082890965, z: 0.018750848}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4307018762302274}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4713452587769720
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314310837717076}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.082890965, z: 0.018750848}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4307018762302274}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23234990313200922
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1931976240785624}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 8b06b247ae9682f429bc75c16acf3bc9, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23271677742504738
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674687453534432}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 8b06b247ae9682f429bc75c16acf3bc9, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23523264559835944
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314310837717076}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 8b06b247ae9682f429bc75c16acf3bc9, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23762292385431698
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1518115641960118}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 8b06b247ae9682f429bc75c16acf3bc9, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33206861526363462
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674687453534432}
+  m_Mesh: {fileID: 4300004, guid: 5f1de43e33f7fb548bfef856205bf398, type: 3}
+--- !u!33 &33315513953142218
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314310837717076}
+  m_Mesh: {fileID: 4300002, guid: 5f1de43e33f7fb548bfef856205bf398, type: 3}
+--- !u!33 &33669674018925522
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1931976240785624}
+  m_Mesh: {fileID: 4300006, guid: 5f1de43e33f7fb548bfef856205bf398, type: 3}
+--- !u!33 &33806622152428424
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1518115641960118}
+  m_Mesh: {fileID: 4300000, guid: 5f1de43e33f7fb548bfef856205bf398, type: 3}
+--- !u!114 &114094220769283020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674687453534432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2050122676, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dazName: 
+  ID: 
+  meshQuality: 0
+  meshType: 3
+  originalMesh: {fileID: 0}
+  originalBindposes: []
+  runtimeMorphPath: MORPH3D/Cowboy_Outfit/Cowboy_Hat/CowboyHat_LOD2
+--- !u!114 &114095733833101906
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1314310837717076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2050122676, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dazName: 
+  ID: 
+  meshQuality: 0
+  meshType: 3
+  originalMesh: {fileID: 0}
+  originalBindposes: []
+  runtimeMorphPath: MORPH3D/Cowboy_Outfit/Cowboy_Hat/CowboyHat_LOD1
+--- !u!114 &114178091238705726
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1202766930874732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2101776992, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dazName: Cowboy_Hat
+  ID: ec357017-f6a0-4920-aa08-6eb84b18a704
+  LODlist:
+  - {fileID: 114412207672790066}
+  - {fileID: 114095733833101906}
+  - {fileID: 114094220769283020}
+  - {fileID: 114833213912483302}
+  currentLODlevel: 1
+  meshType: 3
+  lockMaterials: 0
+  isAttached: 0
+  isVisible: 1
+  basePosition: {x: 0, y: 0, z: 0}
+  baseRotation: {x: 0, y: 0, z: 0}
+--- !u!114 &114412207672790066
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1518115641960118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2050122676, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dazName: 
+  ID: 
+  meshQuality: 0
+  meshType: 3
+  originalMesh: {fileID: 0}
+  originalBindposes: []
+  runtimeMorphPath: MORPH3D/Cowboy_Outfit/Cowboy_Hat/CowboyHat_LOD0
+--- !u!114 &114833213912483302
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1931976240785624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2050122676, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dazName: 
+  ID: 
+  meshQuality: 0
+  meshType: 3
+  originalMesh: {fileID: 0}
+  originalBindposes: []
+  runtimeMorphPath: MORPH3D/Cowboy_Outfit/Cowboy_Hat/CowboyHat_LOD3
+--- !u!114 &114946708326594110
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1202766930874732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1652709342, guid: 2188feb5cf201e848a09932d706b7c3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vendorId: 2e4ddbf3-b4fd-11e6-ab9c-000f1f047949
+  versionId: 1
+  meshType: 3
+  geometryId: Cowboy_Hat
+  ID: ec357017-f6a0-4920-aa08-6eb84b18a704
+  compatabilityBase: 
+  declarativeUse: 
+  controllerScales: []
+  item_id: ec357017-f6a0-4920-aa08-6eb84b18a704
+  collection_id: 
+  rank: 2
+  function: 3
+  schematic:
+    lods: []
+    persistent: []
+  compatibilities:
+    figures: []
+  collection_version: 0
+  item_version: 1
+  mcs_version: 1.6
+  item_name: Cowboy_Hat
+  collection_name: Cowboy_Outfit

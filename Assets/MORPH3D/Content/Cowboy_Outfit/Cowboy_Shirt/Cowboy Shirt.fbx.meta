@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 10f524399eab4bb44b8da34bae2085f7
+timeCreated: 1485031577
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: chestLower
+    100006: chestUpper
+    100008: //RootNode
+    100010: head
+    100012: hip
+    100014: lCarpal1
+    100016: lCarpal2
+    100018: lCarpal3
+    100020: lCarpal4
+    100022: lCollar
+    100024: lEar
+    100026: lForearmBend
+    100028: lForearmTwist
+    100030: lHand
+    100032: lIndex1
+    100034: lMid1
+    100036: lowerJaw
+    100038: lPectoral
+    100040: lPinky1
+    100042: lRing1
+    100044: lShin
+    100046: lShldrBend
+    100048: lShldrTwist
+    100050: lThighBend
+    100052: lThighTwist
+    100054: lThumb1
+    100056: lThumb2
+    100058: neckLower
+    100060: neckUpper
+    100062: pelvis
+    100064: rCarpal1
+    100066: rCarpal2
+    100068: rCarpal3
+    100070: rCarpal4
+    100072: rCollar
+    100074: rEar
+    100076: rForearmBend
+    100078: rForearmTwist
+    100080: rHand
+    100082: rIndex1
+    100084: rMid1
+    100086: rPectoral
+    100088: rPinky1
+    100090: rRing1
+    100092: rShin
+    100094: rShldrBend
+    100096: rShldrTwist
+    100098: rThighBend
+    100100: rThighTwist
+    100102: rThumb1
+    100104: rThumb2
+    100106: Shirt_48897
+    100108: Shirt_48897_LOD0
+    100110: Shirt_48897_LOD1
+    100112: Shirt_48897_LOD2
+    100114: Shirt_48897_LOD3
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: chestLower
+    400006: chestUpper
+    400008: //RootNode
+    400010: head
+    400012: hip
+    400014: lCarpal1
+    400016: lCarpal2
+    400018: lCarpal3
+    400020: lCarpal4
+    400022: lCollar
+    400024: lEar
+    400026: lForearmBend
+    400028: lForearmTwist
+    400030: lHand
+    400032: lIndex1
+    400034: lMid1
+    400036: lowerJaw
+    400038: lPectoral
+    400040: lPinky1
+    400042: lRing1
+    400044: lShin
+    400046: lShldrBend
+    400048: lShldrTwist
+    400050: lThighBend
+    400052: lThighTwist
+    400054: lThumb1
+    400056: lThumb2
+    400058: neckLower
+    400060: neckUpper
+    400062: pelvis
+    400064: rCarpal1
+    400066: rCarpal2
+    400068: rCarpal3
+    400070: rCarpal4
+    400072: rCollar
+    400074: rEar
+    400076: rForearmBend
+    400078: rForearmTwist
+    400080: rHand
+    400082: rIndex1
+    400084: rMid1
+    400086: rPectoral
+    400088: rPinky1
+    400090: rRing1
+    400092: rShin
+    400094: rShldrBend
+    400096: rShldrTwist
+    400098: rThighBend
+    400100: rThighTwist
+    400102: rThumb1
+    400104: rThumb2
+    400106: Shirt_48897
+    400108: Shirt_48897_LOD0
+    400110: Shirt_48897_LOD1
+    400112: Shirt_48897_LOD2
+    400114: Shirt_48897_LOD3
+    4300000: Shirt_48897_LOD0
+    4300002: Shirt_48897_LOD1
+    4300004: Shirt_48897_LOD2
+    4300006: Shirt_48897_LOD3
+    9500000: //RootNode
+    13700000: Shirt_48897_LOD0
+    13700002: Shirt_48897_LOD1
+    13700004: Shirt_48897_LOD2
+    13700006: Shirt_48897_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

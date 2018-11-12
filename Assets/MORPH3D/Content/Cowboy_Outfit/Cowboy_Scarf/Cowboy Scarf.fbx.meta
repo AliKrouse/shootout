@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 29a114e948faf7f488f55ef77daf7ab2
+timeCreated: 1493421619
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: BelowJaw
+    100006: chestLower
+    100008: chestUpper
+    100010: Chin
+    100012: //RootNode
+    100014: head
+    100016: hip
+    100018: lCheekLower
+    100020: lCollar
+    100022: lEar
+    100024: lEye
+    100026: LipBelow
+    100028: LipLowerMiddle
+    100030: lJawClench
+    100032: lLipCorner
+    100034: lLipLowerInner
+    100036: lLipLowerOuter
+    100038: lNasolabialLower
+    100040: lNasolabialMouthCorner
+    100042: lowerFaceRig
+    100044: lowerJaw
+    100046: lowerTeeth
+    100048: lPectoral
+    100050: lShldrBend
+    100052: lShldrTwist
+    100054: neckLower
+    100056: neckUpper
+    100058: pelvis
+    100060: rCheekLower
+    100062: rCollar
+    100064: rEar
+    100066: rEye
+    100068: rForearmBend
+    100070: rJawClench
+    100072: rLipCorner
+    100074: rLipLowerInner
+    100076: rLipLowerOuter
+    100078: rNasolabialLower
+    100080: rNasolabialMouthCorner
+    100082: rPectoral
+    100084: rShldrBend
+    100086: rShldrTwist
+    100088: Scarf_12108
+    100090: Scarf_12108_LOD0
+    100092: Scarf_12108_LOD1
+    100094: Scarf_12108_LOD2
+    100096: Scarf_12108_LOD3
+    100098: upperFaceRig
+    100100: upperTeeth
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: BelowJaw
+    400006: chestLower
+    400008: chestUpper
+    400010: Chin
+    400012: //RootNode
+    400014: head
+    400016: hip
+    400018: lCheekLower
+    400020: lCollar
+    400022: lEar
+    400024: lEye
+    400026: LipBelow
+    400028: LipLowerMiddle
+    400030: lJawClench
+    400032: lLipCorner
+    400034: lLipLowerInner
+    400036: lLipLowerOuter
+    400038: lNasolabialLower
+    400040: lNasolabialMouthCorner
+    400042: lowerFaceRig
+    400044: lowerJaw
+    400046: lowerTeeth
+    400048: lPectoral
+    400050: lShldrBend
+    400052: lShldrTwist
+    400054: neckLower
+    400056: neckUpper
+    400058: pelvis
+    400060: rCheekLower
+    400062: rCollar
+    400064: rEar
+    400066: rEye
+    400068: rForearmBend
+    400070: rJawClench
+    400072: rLipCorner
+    400074: rLipLowerInner
+    400076: rLipLowerOuter
+    400078: rNasolabialLower
+    400080: rNasolabialMouthCorner
+    400082: rPectoral
+    400084: rShldrBend
+    400086: rShldrTwist
+    400088: Scarf_12108
+    400090: Scarf_12108_LOD0
+    400092: Scarf_12108_LOD1
+    400094: Scarf_12108_LOD2
+    400096: Scarf_12108_LOD3
+    400098: upperFaceRig
+    400100: upperTeeth
+    4300000: Scarf_12108_LOD0
+    4300002: Scarf_12108_LOD1
+    4300004: Scarf_12108_LOD2
+    4300006: Scarf_12108_LOD3
+    9500000: //RootNode
+    13700000: Scarf_12108_LOD0
+    13700002: Scarf_12108_LOD1
+    13700004: Scarf_12108_LOD2
+    13700006: Scarf_12108_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
