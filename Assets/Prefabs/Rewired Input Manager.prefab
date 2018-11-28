@@ -193,8 +193,8 @@ MonoBehaviour:
         _layoutId: 0
       _defaultCustomControllerMaps: []
       _startingCustomControllers: []
-      _assignMouseOnStart: 0
-      _assignKeyboardOnStart: 0
+      _assignMouseOnStart: 1
+      _assignKeyboardOnStart: 1
       _excludeFromControllerAutoAssignment: 0
     - _id: 2
       _name: Player1
@@ -694,17 +694,6 @@ MonoBehaviour:
         _actionId: 5
         _elementType: 1
         _elementIdentifierId: 3
-        _axisRange: 0
-        _invert: 0
-        _axisContribution: 0
-        _keyboardKeyCode: 0
-        _modifierKey1: 0
-        _modifierKey2: 0
-        _modifierKey3: 0
-      - _actionCategoryId: 0
-        _actionId: 6
-        _elementType: 1
-        _elementIdentifierId: 4
         _axisRange: 0
         _invert: 0
         _axisContribution: 0
